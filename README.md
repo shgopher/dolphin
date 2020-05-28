@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/googege/dolphine">
-    <img width="20%" alt="github.com/googege/dolphine" src="./logo.jpeg">
+  <a href="https://github.com/googege/dolphin">
+    <img width="20%" alt="github.com/googege/dolphin" src="./logo.jpeg">
   </a>
 </p>
 <p align="center">
@@ -12,13 +12,13 @@
 </p>
 
 <p align="center">
-    <a href="https://travis-ci.com/googege/dolphine.svg?branch=master">
-    <img src="https://travis-ci.com/googege/dolphine.svg?branch=master"/>
+    <a href="https://travis-ci.com/googege/dolphin.svg?branch=master">
+    <img src="https://travis-ci.com/googege/dolphin.svg?branch=master"/>
     </a>
-  <a href="https://goreportcard.com/report/github.com/googege/dolphine"><img alt="dolphine" src="https://goreportcard.com/badge/github.com/googege/dolphine"></a>
+  <a href="https://goreportcard.com/report/github.com/googege/dolphin"><img alt="dolphin" src="https://goreportcard.com/badge/github.com/googege/dolphin"></a>
   <a href="https://golang.org"><img alt="golang" src="https://img.shields.io/badge/awesome-golang-blue.svg"></a>
   <a href="https://pkg.go.dev/search?q=googege" rel="nofollow"><img src="https://camo.githubusercontent.com/a9a286d43bdfff9fb41b88b25b35ea8edd2634fc/68747470733a2f2f676f646f632e6f72672f6769746875622e636f6d2f646572656b7061726b65722f64656c76653f7374617475732e737667" alt="GoDoc" data-canonical-src="https://godoc.org/github.com/derekparker/delve?status.svg" style="max-width:100%;"></a>
-  <a href="https://raw.githubusercontent.com/googege/dolphine/master/LICENSE" rel="nofollow"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license" data-canonical-src="https://img.shields.io/badge/license-MIT-blue.svg" style="max-width:100%;"></a>
+  <a href="https://raw.githubusercontent.com/googege/dolphin/master/LICENSE" rel="nofollow"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license" data-canonical-src="https://img.shields.io/badge/license-MIT-blue.svg" style="max-width:100%;"></a>
 </p> 
 
 <p align="center">
@@ -31,7 +31,7 @@
 - 🚲 **Easy**: you just need install it to the terminal and you can get started quickly.
 ### How to use
 ```go
-dolphine -r -o - w -q
+dolphin -r -o - w -q
 ```
 - `-r` the resource photos dir path
 - `-o` the output dir path
@@ -42,9 +42,9 @@ like:
 
 ```go
 // add "gopath/bin" to PATH. 
-go get -u github.com/googege/dolphine 
+go get -u github.com/googege/dolphin 
 //
-dolphine -r /Users/googege/Desktop/test -o /Users/googege/Desktop/app -w 0 -q 80
+dolphin -r /Users/googege/Desktop/test -o /Users/googege/Desktop/app -w 0 -q 80
 ```
 suport png jpg jpeg and gif ,and all of the output is jpeg
 ## HERE
@@ -59,7 +59,7 @@ suport png jpg jpeg and gif ,and all of the output is jpeg
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/googege/dolphine.svg)](https://starchart.cc/googege/dolphine)
+[![Stargazers over time](https://starchart.cc/googege/dolphin.svg)](https://starchart.cc/googege/dolphin)
 
 
 
